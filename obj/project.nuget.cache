@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGh4AoLX+AA0OdLGvz6H2v/awfkT2Ya6cX1urnm832g289PG5/yyhLAmtMVmwPYeXAZXTrziQxiE/ZiOsEQTgw==",
+  "dgSpecHash": "YRYnJFJe5KunBVfv97IqJUI8E4LfMA0sD9IV8ay5qxIVtMfYp4+/FkgTBmkoWw2ndcnN9mKOZxW+xxXqndFcIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Framework\\Desktop\\CalculoMatematico-main\\CalculadoraDeValores.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
-    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\017586631\\Source\\Repos\\testess\\CalculadoraDeValores.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
